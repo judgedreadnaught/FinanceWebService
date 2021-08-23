@@ -17,8 +17,7 @@ it was either bought or sold. There is a percentage change displayed for each tr
 The third page is TA for leveraged ETFs and Stocks. One has the option of inputting in a stock ticker symbol and then selecting how many years, 1-5, they would
 like to go back to for calculations. Then one can also enter a simulated amount of trading money. Below the displayed stock data, there is a data frame for the 
 EMA (Exponential Moving Average) for the stock. The EMA data is for EMA_3 through EMA_60, so exponential moving average of 3 days,5 days,..., 60 days. The website
-then algorithmically trades based a set of criteria and lists the price and date at which the stock was bought or sold. It then calculates the percent change and logs
-the total percent gain, number of gains and losses, and the starting and ending fund. 
+then algorithmically trades based on a set of criteria and lists the price and date at which the stock was bought or sold. It then calculates the percent change and logs the total percent gain, number of gains and losses, and the starting and ending fund. 
 
 The final page is an unusual volume detector that checks if the volume of any stock in the Dow Jones deviates a certain aomunt from the mean. The program uses the
 data of a stock from up to two weeks ago to calculate the mean. Then for each stock in the Dow Jones a data frame of the stock is displayed and above the data frame
