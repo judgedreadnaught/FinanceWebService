@@ -1,4 +1,4 @@
-# FinanceWebService
+# FinanceWebSite
 
 This is a finanical service website I built using python. The libraries that were the foundation for this project were pandas, yfinance, and streamlit.
 I utilized a variation of streamlit that allowed one to host multiple webpages without the use of "if" statements to hide the page. 
