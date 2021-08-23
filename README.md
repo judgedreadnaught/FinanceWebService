@@ -12,7 +12,7 @@ One can view the stock data and SMA_(10-50) data just like the previous page. Th
 Bollinger Bands, after which the lower and upper bolinger band calculations are displayed in a dataframe. A graph of the Bollinger Bands, SMA_(10-20), and
 Adjusted Close Price is then displayed. Below the graph is a dataframe listing the pivot and support points of the stock. The final dataframe is the backtester, 
 which algorithmically trades the stock whenever it crosses above the upper bollinger band, and below the lower bollinger band. It lists the price and date at which
-it was either bought or sold. There is a percentage change displayed for each trade and an gross percent change is calculated and displayed at the end. 
+it was either bought or sold. There is a percentage change displayed for each trade and a gross percent change is calculated and displayed at the end. 
 
 The third page is TA for leveraged ETFs and Stocks. One has the option of inputting in a stock ticker symbol and then selecting how many years, 1-5, they would
 like to go back to for calculations. Then one can also enter a simulated amount of trading money. Below the displayed stock data, there is a data frame for the 
